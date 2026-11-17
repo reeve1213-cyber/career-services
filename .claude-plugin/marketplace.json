@@ -1,0 +1,14 @@
+{
+  "name": "career-services",
+  "description": "Career Services, a job-search pane for Claude Code",
+  "owner": {
+    "name": "Reeve Johnson"
+  },
+  "plugins": [
+    {
+      "name": "career-services",
+      "source": "./plugins/career-services",
+      "description": "A job-search pane beside the chat: roles by stage, people and follow-ups, recruiting mail and deadlines from Gmail and Calendar, a mock interviewer, and your notes"
+    }
+  ]
+}

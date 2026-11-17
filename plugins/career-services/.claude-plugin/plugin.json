@@ -1,0 +1,16 @@
+{
+  "name": "career-services",
+  "version": "0.1.0",
+  "description": "A job-search pane beside the chat: your next move, roles by stage, people and conversations, recruiting mail and deadlines from Gmail and Google Calendar, interview practice and your own playbook",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "keywords": [
+    "career",
+    "job search",
+    "internships",
+    "pane"
+  ],
+  "author": {
+    "name": "Reeve Johnson"
+  }
+}
